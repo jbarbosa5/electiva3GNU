@@ -29,13 +29,13 @@ namespace api
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
-
+            //patron de diseño inyeccion de ref.
             services.AddDbContext<ApiContext>(options =>
                 options.UseInMemoryDatabase("BlogWorkshop"));
 
-            // using Microsoft.EntityFrameworkCore;
-            // services.AddDbContext<ApiContext>(options =>
-            //     options.UseSqlServer(Configuration.GetConnectionString(
+            // UseInMemoryDatabase BBDDen memoria
+            // EN esta sección se puede colocar más conexiones a otros servidores de BBDD
+            // 
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

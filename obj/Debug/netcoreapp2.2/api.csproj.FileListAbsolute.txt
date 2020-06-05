@@ -12,35 +12,49 @@
 /home/johnbarb/Documentos/ProyectosWeb/NetCore/GNULinux/corte3/taller1.1/api/obj/Debug/netcoreapp2.2/api.RazorTargetAssemblyInfo.cache
 /home/johnbarb/Documentos/ProyectosWeb/NetCore/GNULinux/corte3/taller1.1/api/obj/Debug/netcoreapp2.2/api.dll
 /home/johnbarb/Documentos/ProyectosWeb/NetCore/GNULinux/corte3/taller1.1/api/obj/Debug/netcoreapp2.2/api.pdb
-Z:\programacion\6semestre\GNU Linux\dotnet\corte3\GNUlinux3\bin\Debug\netcoreapp2.2\appsettings.Development.json
-Z:\programacion\6semestre\GNU Linux\dotnet\corte3\GNUlinux3\bin\Debug\netcoreapp2.2\appsettings.json
-Z:\programacion\6semestre\GNU Linux\dotnet\corte3\GNUlinux3\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
-Z:\programacion\6semestre\GNU Linux\dotnet\corte3\GNUlinux3\bin\Debug\netcoreapp2.2\api.deps.json
-Z:\programacion\6semestre\GNU Linux\dotnet\corte3\GNUlinux3\bin\Debug\netcoreapp2.2\api.runtimeconfig.json
-Z:\programacion\6semestre\GNU Linux\dotnet\corte3\GNUlinux3\bin\Debug\netcoreapp2.2\api.runtimeconfig.dev.json
-Z:\programacion\6semestre\GNU Linux\dotnet\corte3\GNUlinux3\bin\Debug\netcoreapp2.2\api.dll
-Z:\programacion\6semestre\GNU Linux\dotnet\corte3\GNUlinux3\bin\Debug\netcoreapp2.2\api.pdb
-Z:\programacion\6semestre\GNU Linux\dotnet\corte3\GNUlinux3\obj\Debug\netcoreapp2.2\api.csprojAssemblyReference.cache
-Z:\programacion\6semestre\GNU Linux\dotnet\corte3\GNUlinux3\obj\Debug\netcoreapp2.2\api.RazorAssemblyInfo.cache
-Z:\programacion\6semestre\GNU Linux\dotnet\corte3\GNUlinux3\obj\Debug\netcoreapp2.2\api.RazorAssemblyInfo.cs
-Z:\programacion\6semestre\GNU Linux\dotnet\corte3\GNUlinux3\obj\Debug\netcoreapp2.2\api.AssemblyInfoInputs.cache
-Z:\programacion\6semestre\GNU Linux\dotnet\corte3\GNUlinux3\obj\Debug\netcoreapp2.2\api.AssemblyInfo.cs
-Z:\programacion\6semestre\GNU Linux\dotnet\corte3\GNUlinux3\obj\Debug\netcoreapp2.2\api.RazorTargetAssemblyInfo.cache
-Z:\programacion\6semestre\GNU Linux\dotnet\corte3\GNUlinux3\obj\Debug\netcoreapp2.2\api.dll
-Z:\programacion\6semestre\GNU Linux\dotnet\corte3\GNUlinux3\obj\Debug\netcoreapp2.2\api.pdb
-Z:\programacion\6semestre\GNU Linux\dotnet\corte3\api\bin\Debug\netcoreapp2.2\appsettings.Development.json
-Z:\programacion\6semestre\GNU Linux\dotnet\corte3\api\bin\Debug\netcoreapp2.2\appsettings.json
-Z:\programacion\6semestre\GNU Linux\dotnet\corte3\api\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
-Z:\programacion\6semestre\GNU Linux\dotnet\corte3\api\bin\Debug\netcoreapp2.2\api.deps.json
-Z:\programacion\6semestre\GNU Linux\dotnet\corte3\api\bin\Debug\netcoreapp2.2\api.runtimeconfig.json
-Z:\programacion\6semestre\GNU Linux\dotnet\corte3\api\bin\Debug\netcoreapp2.2\api.runtimeconfig.dev.json
-Z:\programacion\6semestre\GNU Linux\dotnet\corte3\api\bin\Debug\netcoreapp2.2\api.dll
-Z:\programacion\6semestre\GNU Linux\dotnet\corte3\api\bin\Debug\netcoreapp2.2\api.pdb
-Z:\programacion\6semestre\GNU Linux\dotnet\corte3\api\obj\Debug\netcoreapp2.2\api.csprojAssemblyReference.cache
-Z:\programacion\6semestre\GNU Linux\dotnet\corte3\api\obj\Debug\netcoreapp2.2\api.RazorAssemblyInfo.cache
-Z:\programacion\6semestre\GNU Linux\dotnet\corte3\api\obj\Debug\netcoreapp2.2\api.RazorAssemblyInfo.cs
-Z:\programacion\6semestre\GNU Linux\dotnet\corte3\api\obj\Debug\netcoreapp2.2\api.AssemblyInfoInputs.cache
-Z:\programacion\6semestre\GNU Linux\dotnet\corte3\api\obj\Debug\netcoreapp2.2\api.AssemblyInfo.cs
-Z:\programacion\6semestre\GNU Linux\dotnet\corte3\api\obj\Debug\netcoreapp2.2\api.RazorTargetAssemblyInfo.cache
-Z:\programacion\6semestre\GNU Linux\dotnet\corte3\api\obj\Debug\netcoreapp2.2\api.dll
-Z:\programacion\6semestre\GNU Linux\dotnet\corte3\api\obj\Debug\netcoreapp2.2\api.pdb
+Z:/programacion/6semestre/GNU Linux/dotnet/corte3/GNUlinux3/bin/Debug/netcoreapp2.2/appsettings.Development.json
+Z:/programacion/6semestre/GNU Linux/dotnet/corte3/GNUlinux3/bin/Debug/netcoreapp2.2/appsettings.json
+Z:/programacion/6semestre/GNU Linux/dotnet/corte3/GNUlinux3/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+Z:/programacion/6semestre/GNU Linux/dotnet/corte3/GNUlinux3/bin/Debug/netcoreapp2.2/api.deps.json
+Z:/programacion/6semestre/GNU Linux/dotnet/corte3/GNUlinux3/bin/Debug/netcoreapp2.2/api.runtimeconfig.json
+Z:/programacion/6semestre/GNU Linux/dotnet/corte3/GNUlinux3/bin/Debug/netcoreapp2.2/api.runtimeconfig.dev.json
+Z:/programacion/6semestre/GNU Linux/dotnet/corte3/GNUlinux3/bin/Debug/netcoreapp2.2/api.dll
+Z:/programacion/6semestre/GNU Linux/dotnet/corte3/GNUlinux3/bin/Debug/netcoreapp2.2/api.pdb
+Z:/programacion/6semestre/GNU Linux/dotnet/corte3/GNUlinux3/obj/Debug/netcoreapp2.2/api.csprojAssemblyReference.cache
+Z:/programacion/6semestre/GNU Linux/dotnet/corte3/GNUlinux3/obj/Debug/netcoreapp2.2/api.RazorAssemblyInfo.cache
+Z:/programacion/6semestre/GNU Linux/dotnet/corte3/GNUlinux3/obj/Debug/netcoreapp2.2/api.RazorAssemblyInfo.cs
+Z:/programacion/6semestre/GNU Linux/dotnet/corte3/GNUlinux3/obj/Debug/netcoreapp2.2/api.AssemblyInfoInputs.cache
+Z:/programacion/6semestre/GNU Linux/dotnet/corte3/GNUlinux3/obj/Debug/netcoreapp2.2/api.AssemblyInfo.cs
+Z:/programacion/6semestre/GNU Linux/dotnet/corte3/GNUlinux3/obj/Debug/netcoreapp2.2/api.RazorTargetAssemblyInfo.cache
+Z:/programacion/6semestre/GNU Linux/dotnet/corte3/GNUlinux3/obj/Debug/netcoreapp2.2/api.dll
+Z:/programacion/6semestre/GNU Linux/dotnet/corte3/GNUlinux3/obj/Debug/netcoreapp2.2/api.pdb
+Z:/programacion/6semestre/GNU Linux/dotnet/corte3/api/bin/Debug/netcoreapp2.2/appsettings.Development.json
+Z:/programacion/6semestre/GNU Linux/dotnet/corte3/api/bin/Debug/netcoreapp2.2/appsettings.json
+Z:/programacion/6semestre/GNU Linux/dotnet/corte3/api/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+Z:/programacion/6semestre/GNU Linux/dotnet/corte3/api/bin/Debug/netcoreapp2.2/api.deps.json
+Z:/programacion/6semestre/GNU Linux/dotnet/corte3/api/bin/Debug/netcoreapp2.2/api.runtimeconfig.json
+Z:/programacion/6semestre/GNU Linux/dotnet/corte3/api/bin/Debug/netcoreapp2.2/api.runtimeconfig.dev.json
+Z:/programacion/6semestre/GNU Linux/dotnet/corte3/api/bin/Debug/netcoreapp2.2/api.dll
+Z:/programacion/6semestre/GNU Linux/dotnet/corte3/api/bin/Debug/netcoreapp2.2/api.pdb
+Z:/programacion/6semestre/GNU Linux/dotnet/corte3/api/obj/Debug/netcoreapp2.2/api.csprojAssemblyReference.cache
+Z:/programacion/6semestre/GNU Linux/dotnet/corte3/api/obj/Debug/netcoreapp2.2/api.RazorAssemblyInfo.cache
+Z:/programacion/6semestre/GNU Linux/dotnet/corte3/api/obj/Debug/netcoreapp2.2/api.RazorAssemblyInfo.cs
+Z:/programacion/6semestre/GNU Linux/dotnet/corte3/api/obj/Debug/netcoreapp2.2/api.AssemblyInfoInputs.cache
+Z:/programacion/6semestre/GNU Linux/dotnet/corte3/api/obj/Debug/netcoreapp2.2/api.AssemblyInfo.cs
+Z:/programacion/6semestre/GNU Linux/dotnet/corte3/api/obj/Debug/netcoreapp2.2/api.RazorTargetAssemblyInfo.cache
+Z:/programacion/6semestre/GNU Linux/dotnet/corte3/api/obj/Debug/netcoreapp2.2/api.dll
+Z:/programacion/6semestre/GNU Linux/dotnet/corte3/api/obj/Debug/netcoreapp2.2/api.pdb
+/home/johnbarb/Documentos/ProyectosWeb/NetCore/GNULinux/corte3/taller2/api/bin/Debug/netcoreapp2.2/api.deps.json
+/home/johnbarb/Documentos/ProyectosWeb/NetCore/GNULinux/corte3/taller2/api/bin/Debug/netcoreapp2.2/api.runtimeconfig.json
+/home/johnbarb/Documentos/ProyectosWeb/NetCore/GNULinux/corte3/taller2/api/bin/Debug/netcoreapp2.2/api.runtimeconfig.dev.json
+/home/johnbarb/Documentos/ProyectosWeb/NetCore/GNULinux/corte3/taller2/api/bin/Debug/netcoreapp2.2/api.dll
+/home/johnbarb/Documentos/ProyectosWeb/NetCore/GNULinux/corte3/taller2/api/bin/Debug/netcoreapp2.2/api.pdb
+/home/johnbarb/Documentos/ProyectosWeb/NetCore/GNULinux/corte3/taller2/api/obj/Debug/netcoreapp2.2/api.csprojAssemblyReference.cache
+/home/johnbarb/Documentos/ProyectosWeb/NetCore/GNULinux/corte3/taller2/api/obj/Debug/netcoreapp2.2/api.csproj.CoreCompileInputs.cache
+/home/johnbarb/Documentos/ProyectosWeb/NetCore/GNULinux/corte3/taller2/api/obj/Debug/netcoreapp2.2/api.RazorAssemblyInfo.cache
+/home/johnbarb/Documentos/ProyectosWeb/NetCore/GNULinux/corte3/taller2/api/obj/Debug/netcoreapp2.2/api.RazorAssemblyInfo.cs
+/home/johnbarb/Documentos/ProyectosWeb/NetCore/GNULinux/corte3/taller2/api/obj/Debug/netcoreapp2.2/api.AssemblyInfoInputs.cache
+/home/johnbarb/Documentos/ProyectosWeb/NetCore/GNULinux/corte3/taller2/api/obj/Debug/netcoreapp2.2/api.AssemblyInfo.cs
+/home/johnbarb/Documentos/ProyectosWeb/NetCore/GNULinux/corte3/taller2/api/obj/Debug/netcoreapp2.2/api.RazorTargetAssemblyInfo.cache
+/home/johnbarb/Documentos/ProyectosWeb/NetCore/GNULinux/corte3/taller2/api/obj/Debug/netcoreapp2.2/api.dll
+/home/johnbarb/Documentos/ProyectosWeb/NetCore/GNULinux/corte3/taller2/api/obj/Debug/netcoreapp2.2/api.pdb

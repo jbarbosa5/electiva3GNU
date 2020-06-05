@@ -6,8 +6,8 @@ namespace api.Modelos
     public class Blog
     {
         public int id {get;set;}
-        public string Nombre {get;set;}
-        public string Autor {get;set;}
+        public string nombre {get;set;}
+        public string autor {get;set;}
     }
 }
 

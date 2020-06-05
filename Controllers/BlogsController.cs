@@ -22,11 +22,11 @@ namespace api.Controllers
         [HttpGet] //Lista de objetos
         public ActionResult<IEnumerable<Blog>> Get(){
             //return new string[] { "value1", "value2" };
-            var lista = db.Blogs.ToList();
+            var lista = db.blogs.ToList();
             return lista;
         }
 
-        //localhost:4564/api/Blogs/1
+        //http://localhost:5000/api/blogs/1
         [HttpGet("{id}")] // Un objeto con identificado (llave id)
         public ActionResult<string> GetBlogs(int id){
 
