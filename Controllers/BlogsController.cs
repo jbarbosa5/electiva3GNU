@@ -8,7 +8,7 @@ using api.Modelos;
 namespace api.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")] // http://localhost:5000/api/blogs
+    [Route("api/[controller]")] // http://localhost:5000/api/blogs ojo aqui se define el enrutamiento
     public class BlogsController : ControllerBase
     {
         protected readonly ApiContext db;

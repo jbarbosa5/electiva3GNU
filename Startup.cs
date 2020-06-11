@@ -25,16 +25,16 @@ namespace api
 
         public IConfiguration Configuration { get; }
 
-        // MiddleWare para la conexión del servidor
+        // MiddleWare para la conexión/conf del servidor Kestrel
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
-            //patron de diseño inyeccion de ref.
+            //patron de diseño inyeccion de ref modelo MVC con version2.2.
             services.AddDbContext<ApiContext>(options =>
                 options.UseInMemoryDatabase("BlogWorkshop"));
 
-            // UseInMemoryDatabase BBDDen memoria
-            // EN esta sección se puede colocar más conexiones a otros servidores de BBDD
+            // UseInMemoryDatabase BBDD en memoria
+            // En esta sección se puede colocar más conexiones a otros servidores de BBDD
             // 
         }
 
