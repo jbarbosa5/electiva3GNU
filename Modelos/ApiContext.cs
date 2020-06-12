@@ -20,7 +20,7 @@ namespace api.Modelos
             builder.Entity<Blog>().ToTable("Blogs");
             builder.Entity<Blog>().HasKey(blog=>blog.id)/*.ValueGenerated.OnAdd()*/;
             builder.Entity<Blog>().Property(blog=>blog.nombre).HasMaxLength(50);
-
+            builder.Entity<Blog>().Property(blog=>blog.autor).HasMaxLength(50);
             builder.Entity<Blog>().HasData(
                 new Blog{
                     id=1,
