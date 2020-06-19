@@ -1,3 +1,5 @@
+using System.Net;
+using System.Data.Common;
 using System.Collections;
 using System.Linq;
 using System.Collections.Generic;
@@ -31,7 +33,7 @@ namespace api.Controllers
 
         //http://localhost:5000/api/blogs/1
         [HttpGet("{categoriaId}")] // Un objeto con identificado (llave id)
-        public ActionResult<string> GetBlogs(int categoriaId){
+        public ActionResult<string> GetBlogs([FromRoute] int categoriaId){
 
             var resultado = db.blogs.Find(categoriaId);
             if(resultado==null){
@@ -45,35 +47,59 @@ namespace api.Controllers
 
             if(!ModelState.IsValid){
                 //si es valida
-
+                return BadRequest();
 
             }
             
-            var guardado=db.blogs.Add(blog);
+            db.blogs.Add(blog);
             await db.SaveChangesAsync();
 
-            return new CreatedAtRouteResult("GetBlogs",new {categoriaId=blog.id});
+            return Ok();
 
         }
 
+        //suple el paraemtro route con rutas personalizadas
+        //[Route("~/api/blogs/{id}")]
+        //[HttpDelete]
 
-        [HttpPut("id")]
-        public async Task<IActionResult> EditarBlog([FromRoute] int id, [FromBody] BlogsController blog){
-            //valida la información
-            if(!ModelState.IsValid){
-                return BadRequest(ModelState);
+
+        //recibe un parametro y borra 
+        [HttpDelete("{id}")]
+        public ActionResult eliminarBlog(int id)
+        {
+            Blog existe=db.blogs.Find(id);
+            if(existe ==null){
+                return NotFound();
+            }
+            db.blogs.Remove(existe);
+            db.SaveChanges();
+            return Ok();
+        }
+
+        //[Route("~/api/blogs/{id}")]
+        [HttpPut("{id}")]
+        public ActionResult editarBlog(/* [FromRoute] */ int id, [FromBody] Blog blog){
+            //valida la información y contrarestar CSRF
+            if(id!=blog.id){
+                return BadRequest();
             }
             //valida que el ID no se cambia
-            /* if(id != blog.id){
-                return BadRequest();
-            } */
+            if(!ModelState.IsValid){
+                return BadRequest(ModelState);
+            } 
 
+            //Existe?
+            Blog existe=db.blogs.Find(id);
+            if(existe ==null){
+                return NotFound();
+            }
+
+            //modifica, actualiza y commit
             db.Entry(blog).State=EntityState.Modified;
-
             db.Update(blog);
-            await db.SaveChangesAsync();
+            db.SaveChanges();
 
-            return Redirect("Get");
+            return Ok();
 
 
         }
